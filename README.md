@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/bathamtanishka639-alt/DSA/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/bathamtanishka639-alt/DSA/tree/master/0704-binary-search) |
 | [1094-car-pooling](https://github.com/bathamtanishka639-alt/DSA/tree/master/1094-car-pooling) |
+| [1480-running-sum-of-1d-array](https://github.com/bathamtanishka639-alt/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1550-three-consecutive-odds](https://github.com/bathamtanishka639-alt/DSA/tree/master/1550-three-consecutive-odds) |
 ## Hash Table
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/bathamtanishka639-alt/DSA/tree/master/1094-car-pooling) |
+| [1480-running-sum-of-1d-array](https://github.com/bathamtanishka639-alt/DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Bit Manipulation
 |  |
 | ------- |
