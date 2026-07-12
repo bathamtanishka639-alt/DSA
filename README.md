@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/bathamtanishka639-alt/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0412-fizz-buzz](https://github.com/bathamtanishka639-alt/DSA/tree/master/0412-fizz-buzz) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/bathamtanishka639-alt/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2390-removing-stars-from-a-string](https://github.com/bathamtanishka639-alt/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/bathamtanishka639-alt/DSA/tree/master/0412-fizz-buzz) |
 | [1094-car-pooling](https://github.com/bathamtanishka639-alt/DSA/tree/master/1094-car-pooling) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/bathamtanishka639-alt/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2390-removing-stars-from-a-string](https://github.com/bathamtanishka639-alt/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -117,4 +119,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/bathamtanishka639-alt/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2390-removing-stars-from-a-string](https://github.com/bathamtanishka639-alt/DSA/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
