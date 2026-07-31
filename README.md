@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/bathamtanishka639-alt/DSA/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/bathamtanishka639-alt/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bathamtanishka639-alt/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0137-single-number-ii](https://github.com/bathamtanishka639-alt/DSA/tree/master/0137-single-number-ii) |
 | [0217-contains-duplicate](https://github.com/bathamtanishka639-alt/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/bathamtanishka639-alt/DSA/tree/master/0268-missing-number) |
 | [0605-can-place-flowers](https://github.com/bathamtanishka639-alt/DSA/tree/master/0605-can-place-flowers) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/bathamtanishka639-alt/DSA/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/bathamtanishka639-alt/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/bathamtanishka639-alt/DSA/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/bathamtanishka639-alt/DSA/tree/master/1486-xor-operation-in-an-array) |
