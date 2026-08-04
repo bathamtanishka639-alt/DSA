@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bathamtanishka639-alt/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/bathamtanishka639-alt/DSA/tree/master/0137-single-number-ii) |
 | [0217-contains-duplicate](https://github.com/bathamtanishka639-alt/DSA/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/bathamtanishka639-alt/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/bathamtanishka639-alt/DSA/tree/master/0268-missing-number) |
 | [0605-can-place-flowers](https://github.com/bathamtanishka639-alt/DSA/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/bathamtanishka639-alt/DSA/tree/master/0704-binary-search) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/bathamtanishka639-alt/DSA/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/bathamtanishka639-alt/DSA/tree/master/0724-find-pivot-index) |
 | [1094-car-pooling](https://github.com/bathamtanishka639-alt/DSA/tree/master/1094-car-pooling) |
 | [1480-running-sum-of-1d-array](https://github.com/bathamtanishka639-alt/DSA/tree/master/1480-running-sum-of-1d-array) |
