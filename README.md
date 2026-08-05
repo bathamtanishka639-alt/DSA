@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/bathamtanishka639-alt/DSA/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/bathamtanishka639-alt/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/bathamtanishka639-alt/DSA/tree/master/0724-find-pivot-index) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/bathamtanishka639-alt/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1094-car-pooling](https://github.com/bathamtanishka639-alt/DSA/tree/master/1094-car-pooling) |
 | [1480-running-sum-of-1d-array](https://github.com/bathamtanishka639-alt/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1550-three-consecutive-odds](https://github.com/bathamtanishka639-alt/DSA/tree/master/1550-three-consecutive-odds) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/bathamtanishka639-alt/DSA/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/bathamtanishka639-alt/DSA/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/bathamtanishka639-alt/DSA/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/bathamtanishka639-alt/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -140,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/bathamtanishka639-alt/DSA/tree/master/0231-power-of-two) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/bathamtanishka639-alt/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
