@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/bathamtanishka639-alt/DSA/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bathamtanishka639-alt/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1094-car-pooling](https://github.com/bathamtanishka639-alt/DSA/tree/master/1094-car-pooling) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/bathamtanishka639-alt/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/bathamtanishka639-alt/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1550-three-consecutive-odds](https://github.com/bathamtanishka639-alt/DSA/tree/master/1550-three-consecutive-odds) |
 ## Hash Table
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/bathamtanishka639-alt/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/bathamtanishka639-alt/DSA/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/bathamtanishka639-alt/DSA/tree/master/0412-fizz-buzz) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/bathamtanishka639-alt/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/bathamtanishka639-alt/DSA/tree/master/1486-xor-operation-in-an-array) |
 ## String
 |  |
