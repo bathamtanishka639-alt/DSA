@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/bathamtanishka639-alt/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/bathamtanishka639-alt/DSA/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/bathamtanishka639-alt/DSA/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/bathamtanishka639-alt/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bathamtanishka639-alt/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/bathamtanishka639-alt/DSA/tree/master/0137-single-number-ii) |
 | [0217-contains-duplicate](https://github.com/bathamtanishka639-alt/DSA/tree/master/0217-contains-duplicate) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/bathamtanishka639-alt/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/bathamtanishka639-alt/DSA/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/bathamtanishka639-alt/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/bathamtanishka639-alt/DSA/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bathamtanishka639-alt/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/bathamtanishka639-alt/DSA/tree/master/0704-binary-search) |
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bathamtanishka639-alt/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/bathamtanishka639-alt/DSA/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
