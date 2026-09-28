@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bathamtanishka639-alt/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/bathamtanishka639-alt/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1550-three-consecutive-odds](https://github.com/bathamtanishka639-alt/DSA/tree/master/1550-three-consecutive-odds) |
+| [2965-find-missing-and-repeated-values](https://github.com/bathamtanishka639-alt/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/bathamtanishka639-alt/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/bathamtanishka639-alt/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/bathamtanishka639-alt/DSA/tree/master/0268-missing-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/bathamtanishka639-alt/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
 | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/bathamtanishka639-alt/DSA/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bathamtanishka639-alt/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/bathamtanishka639-alt/DSA/tree/master/1486-xor-operation-in-an-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/bathamtanishka639-alt/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -166,4 +169,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/bathamtanishka639-alt/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/bathamtanishka639-alt/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/bathamtanishka639-alt/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [2965-find-missing-and-repeated-values](https://github.com/bathamtanishka639-alt/DSA/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
