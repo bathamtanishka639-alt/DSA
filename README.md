@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/bathamtanishka639-alt/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/bathamtanishka639-alt/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/bathamtanishka639-alt/DSA/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/bathamtanishka639-alt/DSA/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/bathamtanishka639-alt/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/bathamtanishka639-alt/DSA/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/bathamtanishka639-alt/DSA/tree/master/0412-fizz-buzz) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/bathamtanishka639-alt/DSA/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/bathamtanishka639-alt/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bathamtanishka639-alt/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/bathamtanishka639-alt/DSA/tree/master/0509-fibonacci-number) |
 ## Sorting
@@ -192,5 +194,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/bathamtanishka639-alt/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/bathamtanishka639-alt/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
