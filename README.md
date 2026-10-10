@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/bathamtanishka639-alt/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/bathamtanishka639-alt/DSA/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/bathamtanishka639-alt/DSA/tree/master/0412-fizz-buzz) |
+| [0509-fibonacci-number](https://github.com/bathamtanishka639-alt/DSA/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bathamtanishka639-alt/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/bathamtanishka639-alt/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/bathamtanishka639-alt/DSA/tree/master/2965-find-missing-and-repeated-values) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/bathamtanishka639-alt/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bathamtanishka639-alt/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/bathamtanishka639-alt/DSA/tree/master/0509-fibonacci-number) |
 ## Sorting
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/bathamtanishka639-alt/DSA/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/bathamtanishka639-alt/DSA/tree/master/0509-fibonacci-number) |
 ## Ternary Search
 |  |
 | ------- |
@@ -186,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/bathamtanishka639-alt/DSA/tree/master/0287-find-the-duplicate-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/bathamtanishka639-alt/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
