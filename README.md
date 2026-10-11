@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/bathamtanishka639-alt/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bathamtanishka639-alt/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/bathamtanishka639-alt/DSA/tree/master/0137-single-number-ii) |
+| [0198-house-robber](https://github.com/bathamtanishka639-alt/DSA/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/bathamtanishka639-alt/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/bathamtanishka639-alt/DSA/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/bathamtanishka639-alt/DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/bathamtanishka639-alt/DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/bathamtanishka639-alt/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bathamtanishka639-alt/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/bathamtanishka639-alt/DSA/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/bathamtanishka639-alt/DSA/tree/master/0509-fibonacci-number) |
 ## Sorting
 |  |
