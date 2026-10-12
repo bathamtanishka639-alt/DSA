@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bathamtanishka639-alt/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/bathamtanishka639-alt/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1550-three-consecutive-odds](https://github.com/bathamtanishka639-alt/DSA/tree/master/1550-three-consecutive-odds) |
+| [1748-sum-of-unique-elements](https://github.com/bathamtanishka639-alt/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/bathamtanishka639-alt/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/bathamtanishka639-alt/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/bathamtanishka639-alt/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/bathamtanishka639-alt/DSA/tree/master/0268-missing-number) |
+| [1748-sum-of-unique-elements](https://github.com/bathamtanishka639-alt/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/bathamtanishka639-alt/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
@@ -198,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/bathamtanishka639-alt/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/bathamtanishka639-alt/DSA/tree/master/0509-fibonacci-number) |
+## Counting
+|  |
+| ------- |
+| [1748-sum-of-unique-elements](https://github.com/bathamtanishka639-alt/DSA/tree/master/1748-sum-of-unique-elements) |
 <!---LeetCode Topics End-->
